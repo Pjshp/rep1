@@ -43,6 +43,9 @@ void zadanie_1()
 int main()
 {
     zadanie_1();
+
+    //komentarz
+
     /*float a, b, c, d, dodatnie=0, ujemne=0; /* zadeklarowanie zmiennych
     zmiennoprzecinkowych*/
 
